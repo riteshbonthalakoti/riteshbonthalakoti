@@ -23,11 +23,17 @@ I design custom circuits, write microcontroller firmware in C/C++, and develop I
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="./assets/vaha.webp" alt="VAHA" width="100%" />
-  <h3>VAHA</h3>
+  <a href="https://github.com/dharanova-code/vaha" target="_blank">
+    <img src="./assets/vaha.webp" alt="VAHA" width="100%" />
+  </a>
+  <h3><a href="https://github.com/dharanova-code/vaha">VAHA</a></h3>
 </div>
 
 On-device physical AI terminal engineered for ambient environmental and acoustic processing. Listens for dedicated wake-word triggers, executes on-device speech-to-text transcription, and synchronizes real-time sensor telemetry without cloud dependency.
+
+<p>
+  <b><a href="https://github.com/dharanova-code/vaha">🔗 Repository: dharanova-code/vaha</a></b>
+</p>
 
 - **National Recognition**: Selected among the **Top 50 Hardware Projects in India** at the Arduino Physical AI Challenge 2026.
 - **Edge Speech Pipeline**: On-device speech transcription with local audio inference and zero cloud latency.
@@ -38,11 +44,17 @@ On-device physical AI terminal engineered for ambient environmental and acoustic
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="./assets/shem.png" alt="SHEM" width="100%" />
-  <h3>Smart Home Energy Manager (SHEM)</h3>
+  <a href="https://shem1918.vercel.app/" target="_blank">
+    <img src="./assets/shem.png" alt="SHEM" width="100%" />
+  </a>
+  <h3><a href="https://shem1918.vercel.app/">Smart Home Energy Manager (SHEM)</a></h3>
 </div>
 
 Precision electrical mains energy monitoring and diagnostic system. Calibrated from scratch to compute real-time true RMS electrical metrics, detect anomalous power spikes, and stream load telemetry to remote dashboards.
+
+<p>
+  <b><a href="https://shem1918.vercel.app/">🔗 Live Dashboard: shem1918.vercel.app</a></b>
+</p>
 
 - **1st Prize Winner**: Awarded **1st Prize at Project Expo** with a **₹10,000 cash prize**.
 - **High-Accuracy Sensing**: On-device true RMS voltage, current, power, and power factor computed with **±5% validated accuracy**.
@@ -62,11 +74,17 @@ Precision electrical mains energy monitoring and diagnostic system. Calibrated f
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="./assets/agromirai.png" alt="AgroMirai" width="100%" />
-  <h3>AgroMirai</h3>
+  <a href="https://agromirai.vercel.app/" target="_blank">
+    <img src="./assets/agromirai.png" alt="AgroMirai" width="100%" />
+  </a>
+  <h3><a href="https://agromirai.vercel.app/">AgroMirai</a></h3>
 </div>
 
 Intelligent agricultural platform designed to empower farmers with data-driven crop health diagnostics, soil analysis, and predictive yield insights through accessible multi-modal interfaces.
+
+<p>
+  <b><a href="https://agromirai.vercel.app/">🔗 Live Platform: agromirai.vercel.app</a></b>
+</p>
 
 - **Agricultural Intelligence**: Neural diagnosis of crop diseases and real-time advisory tailored to local conditions.
 - **Soil & Climate Modeling**: Real-time integration of ambient sensor data, microclimate tracking, and soil nutrient indexes.
@@ -77,11 +95,17 @@ Intelligent agricultural platform designed to empower farmers with data-driven c
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="./assets/helpdesk.png" alt="Helpdesk.ai" width="100%" />
-  <h3>Helpdesk.ai</h3>
+  <a href="https://helpdeskaiv1.vercel.app/" target="_blank">
+    <img src="./assets/helpdesk.png" alt="Helpdesk.ai" width="100%" />
+  </a>
+  <h3><a href="https://helpdeskaiv1.vercel.app/">Helpdesk.ai</a></h3>
 </div>
 
 Enterprise neural support orchestrator built during Infosys Springboard. Automates technical support ticket triage, categorizes requests in under 100ms with fine-tuned DistilBERT, and resolves repetitive incidents with generative AI.
+
+<p>
+  <b><a href="https://helpdeskaiv1.vercel.app/">🔗 Live Platform</a> · <a href="https://github.com/riteshbonthalakoti/HELPDESK.AI">Repository</a></b>
+</p>
 
 - **Community Traction**: **180+ GitHub Stars** and **300+ Forks** on GitHub.
 - **Neural Classification**: Sub-100ms ticket categorization using fine-tuned DistilBERT and named entity recognition.
