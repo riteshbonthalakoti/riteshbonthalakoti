@@ -1,26 +1,10 @@
 <div align="center">
 
-<!-- Header Picture / Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=220&section=header&text=Ritesh%20Bonthalakoti&fontSize=70&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%26%20Hardware%20Engineer&descAlignY=60&descAlign=50" alt="Ritesh Bonthalakoti Header" width="100%"/>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/199930184?v=4" width="115" style="border-radius: 50%; border: 3px solid #00FFFF;" alt="Ritesh Bonthalakoti" />
-</p>
-
 # Ritesh Bonthalakoti
 
-**Embedded Systems Engineer**  
-*Building physical devices, firmware, and production software systems.*
+### Embedded Systems Engineer
 
-Visakhapatnam, India · [Dharanova](https://www.linkedin.com/company/dharanova) · [LinkedIn](https://linkedin.com/in/riteshbonthalakoti) · [Email](mailto:riteshbonthalakoti@gmail.com) · [Writing](https://medium.com/@ritesh1918)
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=ritesh-1918&label=PROFILE_VIEWS&color=00FFFF&style=flat-square)](https://github.com/riteshbonthalakoti)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ritesh_Bonthalakoti-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshbonthalakoti)
-[![X](https://img.shields.io/badge/X-@ritesh__1918-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ritesh_1918)
-[![Medium](https://img.shields.io/badge/Medium-Articles-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ritesh1918)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=flat-square&logo=google-chrome&logoColor=white)](https://riteshbonthalakoti.vercel.app/)
+[![Profile Views](https://komarev.com/ghpvc/?username=ritesh-1918&label=Profile+Views&color=0f172a&style=flat-square)](https://github.com/riteshbonthalakoti)
 
 </div>
 
@@ -28,45 +12,128 @@ Visakhapatnam, India · [Dharanova](https://www.linkedin.com/company/dharanova) 
 
 ### About
 
-I am an **Embedded Systems Engineer** designing custom circuits, writing firmware, and developing IoT hardware at [Dharanova](https://www.linkedin.com/company/dharanova), with prior hardware engineering roles at PUSULA and Gratian Technologies.
-
-My primary focus is physical computing: microcontroller firmware (C/C++), analog sensor calibration, power electronics, and edge processing. In parallel, I build production-grade web platforms and autonomous agentic workflows that interface with real-world systems.
+I design custom circuits, write microcontroller firmware in C/C++, and develop IoT hardware at Dharanova. My focus is on physical computing, analog sensor calibration, and edge processing, alongside building production-grade web platforms and autonomous agentic workflows.
 
 ---
 
-### ⚡ Physical Hardware & Embedded Systems
+### Hardware Systems
 
-| System | Hardware & Stack | Engineering Scope | Status / Links |
-| :--- | :--- | :--- | :---: |
-| **SHEM (Smart Home Energy Manager)** | `ESP32` `ZMPT101B` `SCT-013` `Blynk/MQTT` | Designed and calibrated an on-device mains power monitoring unit from scratch. Calculates true RMS voltage, current, active power, and power factor with ±5% accuracy; streams telemetry over MQTT. | [Documentation](https://github.com/riteshbonthalakoti/my-site) |
-| **Dhwanix Acoustic Monitor** | `ESP32` `Sound Sensors` `Embedded C` `MQTT` | Real-time acoustic decibel monitoring station for quiet zones (hospitals/schools) with automated threshold triggers and event logging. | [Case Study](https://github.com/riteshbonthalakoti/Portfolio) |
-| **RaceXplorer Timing System** | `Arduino` `IR Sensors` `I2C LCD` `C++` | Millisecond-accurate track timing system using hardware interrupts and optical beam-break sensing. Awarded 1st Prize at college technical expo. | Completed |
-| **Industrial Edge Firmware** | `ESP-IDF` `FreeRTOS` `UART/I2C/SPI` | Developing product-grade firmware and integrating edge ML inference pipelines into microcontroller workflows at Dharanova and PUSULA. | Production |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+  <img src="./assets/vaha.webp" alt="VAHA" width="100%" />
+  <h3>VAHA</h3>
+</div>
+
+On-device physical AI terminal engineered for ambient environmental and acoustic processing. Listens for dedicated wake-word triggers, executes on-device speech-to-text transcription, and synchronizes real-time sensor telemetry without cloud dependency.
+
+- **National Recognition**: Selected among the **Top 50 Hardware Projects in India** at the Arduino Physical AI Challenge 2026.
+- **Edge Speech Pipeline**: On-device speech transcription with local audio inference and zero cloud latency.
+- **Multi-Sensor Array**: Continuous monitoring of acoustic events, ambient temperature, humidity, and airflow.
+- **Hardware Integration**: Custom circuit enclosure, sensor routing, and microcontroller firmware.
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+  <img src="./assets/shem.svg" alt="SHEM" width="100%" />
+  <h3>Smart Home Energy Manager (SHEM)</h3>
+</div>
+
+Precision electrical mains energy monitoring and diagnostic system. Calibrated from scratch to compute real-time true RMS electrical metrics, detect anomalous power spikes, and stream load telemetry to remote dashboards.
+
+- **1st Prize Winner**: Awarded **1st Prize at Project Expo** with a **₹10,000 cash prize**.
+- **High-Accuracy Sensing**: On-device true RMS voltage, current, power, and power factor computed with **±5% validated accuracy**.
+- **Hardware Circuitry**: Built with ZMPT101B voltage transformer, SCT-013 current sensor, and ESP32 processing.
+- **Telemetry & Safety**: Real-time MQTT telemetry streaming, automated overload alerts, and fail-safe relay switching.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🖥️ Production Software & Multi-Agent Systems
+### Software Platforms
 
-| Platform | Stack | Architecture & Scope | Code |
-| :--- | :--- | :--- | :---: |
-| **[HELPDESK.AI](https://github.com/riteshbonthalakoti/HELPDESK.AI)** | `Python` `FastAPI` `DistilBERT` `Supabase` | B2B enterprise support orchestrator. Handles automated ticket triage, named entity extraction, and duplicate incident detection using embedding similarity. | [⭐ 186+ Stars](https://github.com/riteshbonthalakoti/HELPDESK.AI) |
-| **[flowbit-ai-memory-agent](https://github.com/riteshbonthalakoti/flowbit-ai-memory-agent)** | `TypeScript` `LangChain` `Agents` | Memory-driven autonomous agent for unstructured document processing. Retains audit trails and learns from human corrections over time. | [Repository](https://github.com/riteshbonthalakoti/flowbit-ai-memory-agent) |
-| **[JanSahayak AI](https://github.com/riteshbonthalakoti/jansahayak-ai)** | `JavaScript` `Speech API` `FastAPI` | Multilingual conversational voice assistant providing citizens direct voice-driven access to welfare documentation. | [Repository](https://github.com/riteshbonthalakoti/jansahayak-ai) |
-| **[ClaudeWatch](https://github.com/riteshbonthalakoti/ClaudeWatch)** | `Dart` `Flutter` `Android` | Open-source mobile application for tracking and monitoring API token usage across developer AI tools. | [Repository](https://github.com/riteshbonthalakoti/ClaudeWatch) |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+  <img src="./assets/agromirai.svg" alt="AgroMirai" width="100%" />
+  <h3>AgroMirai</h3>
+</div>
+
+Intelligent agricultural platform designed to empower farmers with data-driven crop health diagnostics, soil analysis, and predictive yield insights through accessible multi-modal interfaces.
+
+- **Agricultural Intelligence**: Neural diagnosis of crop diseases and real-time advisory tailored to local conditions.
+- **Soil & Climate Modeling**: Real-time integration of ambient sensor data, microclimate tracking, and soil nutrient indexes.
+- **Farmer-Centric Architecture**: Built for low-bandwidth rural connectivity with high-accessibility interfaces.
+- **Predictive Analytics**: Machine learning models predicting yield trends and pest risk windows.
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+  <img src="./assets/helpdesk.svg" alt="Helpdesk.ai" width="100%" />
+  <h3>Helpdesk.ai</h3>
+</div>
+
+Enterprise neural support orchestrator built during Infosys Springboard. Automates technical support ticket triage, categorizes requests in under 100ms with fine-tuned DistilBERT, and resolves repetitive incidents with generative AI.
+
+- **Community Traction**: **180+ GitHub Stars** and **300+ Forks** on GitHub.
+- **Neural Classification**: Sub-100ms ticket categorization using fine-tuned DistilBERT and named entity recognition.
+- **Duplicate Triage**: High-speed ticket clustering and duplicate incident detection via vector cosine similarity.
+- **Enterprise Security**: Production architecture featuring a 4-tier Supabase Row-Level Security (RLS) model.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Technical Focus
+### Technical Stack
 
-- **Hardware & Circuits**: Schematic review, PCB prototyping, circuit debugging, sensor calibration, power isolation, oscilloscopes, multimeters.
-- **Microcontrollers & SoC**: ESP32 (ESP-IDF / Arduino), STM32, Arduino Uno, Raspberry Pi, ARM Cortex-M.
-- **Protocols & Buses**: I2C, SPI, UART, MQTT, HTTP, WebSockets.
-- **Firmware & Low-Level**: Embedded C, Modern C++, FreeRTOS, memory management, hardware interrupts.
-- **Software & Systems**: Python, TypeScript, FastAPI, Next.js, PostgreSQL, LangChain/LangGraph, Docker.
+<table>
+<tr>
+<td width="33%" valign="top">
+<strong>Hardware &amp; Firmware</strong><br/>
+• ESP32 / ESP-IDF<br/>
+• STM32 &amp; ARM Cortex<br/>
+• Arduino Architecture<br/>
+• Embedded C / C++<br/>
+• FreeRTOS<br/>
+• Circuit Prototyping &amp; PCB<br/>
+• Sensor Calibration &amp; ADC
+</td>
+<td width="33%" valign="top">
+<strong>Protocols &amp; Edge</strong><br/>
+• I2C / SPI / UART<br/>
+• MQTT &amp; WebSockets<br/>
+• True RMS Processing<br/>
+• Edge ML &amp; Speech-to-Text<br/>
+• Signal Conditioning<br/>
+• Power Isolation<br/>
+• Oscilloscope &amp; Logic Debug
+</td>
+<td width="33%" valign="top">
+<strong>Software &amp; AI Systems</strong><br/>
+• Python &amp; FastAPI<br/>
+• TypeScript &amp; Next.js<br/>
+• LangChain &amp; Multi-Agents<br/>
+• PostgreSQL &amp; Supabase<br/>
+• Vector Databases (RAG)<br/>
+• Docker &amp; CI/CD<br/>
+• Full-Stack Architecture
+</td>
+</tr>
+</table>
 
 ---
 
-### 📝 Technical Writing
+### Writing
 
 <!-- BLOG-POST-LIST:START -->
 - [The Intelligence Supercycle: Architecting the Silicon-Based Workforce and the Physical AI Reality](https://medium.com/@ritesh1918/the-intelligence-supercycle-architecting-the-silicon-based-workforce-and-the-physical-ai-reality-64ec1fae34c4)
@@ -75,7 +142,12 @@ My primary focus is physical computing: microcontroller firmware (C/C++), analog
 
 <p align="right"><sub><i>Automated daily via <a href="https://github.com/gautamkrishnar/blog-post-workflow">blog-post-workflow</a></i></sub></p>
 
-<!-- Footer -->
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer&fontSize=10&fontColor=000000&reversal=true" width="100%"/>
+  <a href="https://riteshbonthalakoti.vercel.app/">Portfolio</a> · 
+  <a href="https://linkedin.com/in/riteshbonthalakoti">LinkedIn</a> · 
+  <a href="https://x.com/ritesh_1918">X</a> · 
+  <a href="https://medium.com/@ritesh1918">Medium</a> · 
+  <a href="mailto:riteshbonthalakoti@gmail.com">Email</a>
 </div>

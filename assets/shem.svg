@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300">
+  <rect width="600" height="300" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="30" y="30" width="8" height="240" rx="4" fill="#00ffff"/>
+  <text x="60" y="130" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="34" font-weight="bold">SHEM</text>
+  <text x="60" y="175" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18">Smart Home Energy Manager · 1st Prize Winner</text>
+</svg>
