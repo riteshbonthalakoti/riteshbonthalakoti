@@ -16,7 +16,7 @@ Visakhapatnam, India · [Dharanova](https://www.linkedin.com/company/dharanova) 
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=riteshbonthalakoti&label=PROFILE_VIEWS&color=00FFFF&style=flat-square)](https://github.com/riteshbonthalakoti)
+[![Profile Views](https://komarev.com/ghpvc/?username=ritesh-1918&label=PROFILE_VIEWS&color=00FFFF&style=flat-square)](https://github.com/riteshbonthalakoti)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ritesh_Bonthalakoti-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshbonthalakoti)
 [![X](https://img.shields.io/badge/X-@ritesh__1918-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ritesh_1918)
 [![Medium](https://img.shields.io/badge/Medium-Articles-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ritesh1918)
