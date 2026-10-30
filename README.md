@@ -38,7 +38,7 @@ On-device physical AI terminal engineered for ambient environmental and acoustic
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="./assets/shem.svg" alt="SHEM" width="100%" />
+  <img src="./assets/shem.png" alt="SHEM" width="100%" />
   <h3>Smart Home Energy Manager (SHEM)</h3>
 </div>
 
@@ -62,7 +62,7 @@ Precision electrical mains energy monitoring and diagnostic system. Calibrated f
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="./assets/agromirai.svg" alt="AgroMirai" width="100%" />
+  <img src="./assets/agromirai.png" alt="AgroMirai" width="100%" />
   <h3>AgroMirai</h3>
 </div>
 
@@ -77,7 +77,7 @@ Intelligent agricultural platform designed to empower farmers with data-driven c
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="./assets/helpdesk.svg" alt="Helpdesk.ai" width="100%" />
+  <img src="./assets/helpdesk.png" alt="Helpdesk.ai" width="100%" />
   <h3>Helpdesk.ai</h3>
 </div>
 
@@ -145,9 +145,25 @@ Enterprise neural support orchestrator built during Infosys Springboard. Automat
 ---
 
 <div align="center">
-  <a href="https://riteshbonthalakoti.vercel.app/">Portfolio</a> · 
-  <a href="https://linkedin.com/in/riteshbonthalakoti">LinkedIn</a> · 
-  <a href="https://x.com/ritesh_1918">X</a> · 
-  <a href="https://medium.com/@ritesh1918">Medium</a> · 
-  <a href="mailto:riteshbonthalakoti@gmail.com">Email</a>
+
+<a href="https://riteshbonthalakoti.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/riteshbonthalakoti" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://x.com/ritesh_1918" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+&nbsp;
+<a href="https://medium.com/@ritesh1918" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
+&nbsp;
+<a href="mailto:riteshbonthalakoti@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
 </div>
