@@ -4,7 +4,7 @@
 
 ### Embedded Systems Engineer
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ritesh-1918&label=Profile+Views&color=0f172a&style=flat-square)](https://github.com/riteshbonthalakoti)
+[![Profile Views](https://komarev.com/ghpvc/?username=riteshbonthalakoti&base=2379&label=Profile+Views&color=0f172a&style=flat-square)](https://github.com/riteshbonthalakoti)
 
 </div>
 
