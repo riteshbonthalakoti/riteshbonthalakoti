@@ -1,155 +1,81 @@
 <div align="center">
 
-<!-- Header Image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=300&section=header&text=Ritesh%20Bonthalakoti&fontSize=90&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Vibing%20with%20Code%20&%20AI&descAlignY=55&descAlign=62" alt="Ritesh Bonthalakoti Header" width="100%"/>
+<!-- Header Picture / Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=220&section=header&text=Ritesh%20Bonthalakoti&fontSize=70&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%26%20Hardware%20Engineer&descAlignY=60&descAlign=50" alt="Ritesh Bonthalakoti Header" width="100%"/>
 
-<!-- Typing Effect -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Student+%40+ECE+Final+Year;Building+AI+Agents+🤖;Web+Design+Wizard+🌐;IoT+%26+Electronics+Enthusiast+⚡;Video+Editing+Pro+🎬" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Intro -->
-<samp>
-  <h3>// SYSTEM.INIT_PROFILE <span style="color: #00FFFF">...SUCCESS</span></h3>
-  <p>I'm a final year <b>Diploma in ECE student</b> based in Vizag, India. <br>
-  I'm a multidisciplinary developer exploring the chaos between hardware and software. From building <b>autonomous AI agents</b> to designing <b>Cyberpunk themes</b> on the web, I do it all.</p>
-</samp>
-
-<br/>
-<br/>
-
-<!-- Socials -->
-<div align="center">
-  <a href="https://linkedin.com/in/ritesh1908" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/ritesh_1918" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://www.instagram.com/ritesh_19180/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://medium.com/@ritesh1918" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://calendly.com/ritesh1918/networking" target="_blank">
-    <img src="https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly"/>
-  </a>
-  <a href="https://topmate.io/ritesh1918" target="_blank">
-    <img src="https://img.shields.io/badge/Topmate-E87568?style=for-the-badge&logo=topcoder&logoColor=white" alt="Topmate"/>
-  </a>
-</div>
-
-<br/>
-<hr/>
-<br/>
-
-<!-- Skills Section -->
-<h2 align="center">⚡ <span style="color: #00FFFF">TECH ARSENAL</span> ⚡</h2>
-
-<div align="center">
-
-<!-- AI & Agents -->
-<h3>🧠 AI & Agents</h3>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-
-<br/>
-
-<!-- Web Design -->
-<h3>🌐 Web Design</h3>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-
-<br/>
-
-<!-- IoT & Hardware -->
-<h3>⚙️ IoT & Hardware</h3>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/IoT-5C2D91?style=flat&logo=internet-of-things&logoColor=white"/>
-
-<br/>
-
-<!-- Creative -->
-<h3>🎬 Creative & Editing</h3>
-<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white"/>
-<img src="https://img.shields.io/badge/DaVinci_Resolve-F5B041?style=flat&logo=mic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
-
-</div>
-
-<br/>
-<hr/>
-
-<!-- Stats Section -->
-<h2 align="center">📊 <span style="color: #FF00FF">DATA_LOGS</span></h2>
-
-<div align="center">
-  <!-- 
-       NOTE: These images are generated by the GitHub Action inside this repository.
-       If they are broken, go to the "Actions" tab and run the "GitHub-Profile-Summary-Cards" workflow manually.
-       Once run, they will appear in the 'profile-summary-card-output' folder.
-  -->
-  
-  <!-- Profile Details Card -->
-  <img src="https://raw.githubusercontent.com/ritesh-1918/ritesh-1918/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
-  
-  <br/>
-  
-  <!-- Commits & PRs -->
-  <img src="https://raw.githubusercontent.com/ritesh-1918/ritesh-1918/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per Language" />
-  <img src="https://raw.githubusercontent.com/ritesh-1918/ritesh-1918/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commits Language" />
-  
-  <br/>
-  
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=ritesh-1918&label=PROFILE_VIEWS&color=00FFFF&style=flat-square" alt="Profile Views" />
-</div>
-
-<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Trident%20Emblem.png" alt="Divider" width="40" height="40" />
-<br/>
-
-<!-- Blog & Music Section -->
-<table align="center" border="0" width="90%">
-<tr>
-<td width="55%" valign="top">
-
-<h3 align="left">📝 <span style="color: #00FFFF">LATEST_TRANSMISSIONS</span></h3>
-<!-- BLOG-POST-LIST:START -->
- ⚡ <a href='https://medium.com/@ritesh1918/the-intelligence-supercycle-architecting-the-silicon-based-workforce-and-the-physical-ai-reality-64ec1fae34c4?source=rss-0e4ece62824a------2' target='_blank'><b>The Intelligence Supercycle: Architecting the Silicon-Based Workforce and the Physical AI Reality…</b></a> <br/>
- ⚡ <a href='https://medium.com/@ritesh1918/the-ai-revolution-of-2025-5-game-changing-technologies-every-student-should-know-about-a4ba5fbef4cc?source=rss-0e4ece62824a------2' target='_blank'><b>The AI Revolution of 2025: 5 Game-Changing Technologies Every Student Should Know About</b></a> <br/><!-- BLOG-POST-LIST:END -->
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<h3 align="center">🎧 <span style="color: #FF00FF">AUDIO_INJECTION</span></h3>
-
-<!-- Static Spotify Vibe Badge (Reliable) -->
-<a href="https://open.spotify.com/playlist/37i9dQZF1DX0SM0LYsmbMT" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-Cyberpunk_Beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-</a>
-<br/>
-<br/>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhmZWR3bGh4eGd4eGd4eGd4eGd4eGd4eGd4eGd4eGd4eGd4eGd4eGd4eCZlcD12MV9pbnRlcm5hbF9naWY&rid=giphy.gif" width="200" alt="Cyberpunk LoFi" />
+  <img src="https://avatars.githubusercontent.com/u/199930184?v=4" width="115" style="border-radius: 50%; border: 3px solid #00FFFF;" alt="Ritesh Bonthalakoti" />
 </p>
 
-</td>
-</tr>
-</table>
+# Ritesh Bonthalakoti
+
+**Embedded Systems Engineer**  
+*Building physical devices, firmware, and production software systems.*
+
+Visakhapatnam, India · [Dharanova](https://www.linkedin.com/company/dharanova) · [LinkedIn](https://linkedin.com/in/riteshbonthalakoti) · [Email](mailto:riteshbonthalakoti@gmail.com) · [Writing](https://medium.com/@ritesh1918)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=riteshbonthalakoti&label=PROFILE_VIEWS&color=00FFFF&style=flat-square)](https://github.com/riteshbonthalakoti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ritesh_Bonthalakoti-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshbonthalakoti)
+[![X](https://img.shields.io/badge/X-@ritesh__1918-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ritesh_1918)
+[![Medium](https://img.shields.io/badge/Medium-Articles-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ritesh1918)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=flat-square&logo=google-chrome&logoColor=white)](https://riteshbonthalakoti.vercel.app/)
+
+</div>
+
+---
+
+### About
+
+I am an **Embedded Systems Engineer** designing custom circuits, writing firmware, and developing IoT hardware at [Dharanova](https://www.linkedin.com/company/dharanova), with prior hardware engineering roles at PUSULA and Gratian Technologies.
+
+My primary focus is physical computing: microcontroller firmware (C/C++), analog sensor calibration, power electronics, and edge processing. In parallel, I build production-grade web platforms and autonomous agentic workflows that interface with real-world systems.
+
+---
+
+### ⚡ Physical Hardware & Embedded Systems
+
+| System | Hardware & Stack | Engineering Scope | Status / Links |
+| :--- | :--- | :--- | :---: |
+| **SHEM (Smart Home Energy Manager)** | `ESP32` `ZMPT101B` `SCT-013` `Blynk/MQTT` | Designed and calibrated an on-device mains power monitoring unit from scratch. Calculates true RMS voltage, current, active power, and power factor with ±5% accuracy; streams telemetry over MQTT. | [Documentation](https://github.com/riteshbonthalakoti/my-site) |
+| **Dhwanix Acoustic Monitor** | `ESP32` `Sound Sensors` `Embedded C` `MQTT` | Real-time acoustic decibel monitoring station for quiet zones (hospitals/schools) with automated threshold triggers and event logging. | [Case Study](https://github.com/riteshbonthalakoti/Portfolio) |
+| **RaceXplorer Timing System** | `Arduino` `IR Sensors` `I2C LCD` `C++` | Millisecond-accurate track timing system using hardware interrupts and optical beam-break sensing. Awarded 1st Prize at college technical expo. | Completed |
+| **Industrial Edge Firmware** | `ESP-IDF` `FreeRTOS` `UART/I2C/SPI` | Developing product-grade firmware and integrating edge ML inference pipelines into microcontroller workflows at Dharanova and PUSULA. | Production |
+
+---
+
+### 🖥️ Production Software & Multi-Agent Systems
+
+| Platform | Stack | Architecture & Scope | Code |
+| :--- | :--- | :--- | :---: |
+| **[HELPDESK.AI](https://github.com/riteshbonthalakoti/HELPDESK.AI)** | `Python` `FastAPI` `DistilBERT` `Supabase` | B2B enterprise support orchestrator. Handles automated ticket triage, named entity extraction, and duplicate incident detection using embedding similarity. | [⭐ 186+ Stars](https://github.com/riteshbonthalakoti/HELPDESK.AI) |
+| **[flowbit-ai-memory-agent](https://github.com/riteshbonthalakoti/flowbit-ai-memory-agent)** | `TypeScript` `LangChain` `Agents` | Memory-driven autonomous agent for unstructured document processing. Retains audit trails and learns from human corrections over time. | [Repository](https://github.com/riteshbonthalakoti/flowbit-ai-memory-agent) |
+| **[JanSahayak AI](https://github.com/riteshbonthalakoti/jansahayak-ai)** | `JavaScript` `Speech API` `FastAPI` | Multilingual conversational voice assistant providing citizens direct voice-driven access to welfare documentation. | [Repository](https://github.com/riteshbonthalakoti/jansahayak-ai) |
+| **[ClaudeWatch](https://github.com/riteshbonthalakoti/ClaudeWatch)** | `Dart` `Flutter` `Android` | Open-source mobile application for tracking and monitoring API token usage across developer AI tools. | [Repository](https://github.com/riteshbonthalakoti/ClaudeWatch) |
+
+---
+
+### Technical Focus
+
+- **Hardware & Circuits**: Schematic review, PCB prototyping, circuit debugging, sensor calibration, power isolation, oscilloscopes, multimeters.
+- **Microcontrollers & SoC**: ESP32 (ESP-IDF / Arduino), STM32, Arduino Uno, Raspberry Pi, ARM Cortex-M.
+- **Protocols & Buses**: I2C, SPI, UART, MQTT, HTTP, WebSockets.
+- **Firmware & Low-Level**: Embedded C, Modern C++, FreeRTOS, memory management, hardware interrupts.
+- **Software & Systems**: Python, TypeScript, FastAPI, Next.js, PostgreSQL, LangChain/LangGraph, Docker.
+
+---
+
+### 📝 Technical Writing
+
+<!-- BLOG-POST-LIST:START -->
+- [The Intelligence Supercycle: Architecting the Silicon-Based Workforce and the Physical AI Reality](https://medium.com/@ritesh1918/the-intelligence-supercycle-architecting-the-silicon-based-workforce-and-the-physical-ai-reality-64ec1fae34c4)
+- [The AI Revolution of 2025: 5 Game-Changing Technologies Every Student Should Know About](https://medium.com/@ritesh1918/the-ai-revolution-of-2025-5-game-changing-technologies-every-student-should-know-about-a4ba5fbef4cc)
+<!-- BLOG-POST-LIST:END -->
+
+<p align="right"><sub><i>Automated daily via <a href="https://github.com/gautamkrishnar/blog-post-workflow">blog-post-workflow</a></i></sub></p>
+
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer&fontSize=10&fontColor=000000&reversal=true" width="100%"/>
-</div>
 </div>
