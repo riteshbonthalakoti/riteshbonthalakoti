@@ -21,6 +21,6 @@ jobs:
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
           accept_header: "text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,image/webp,*/*;q=0.8"
-          template: "$newline ⚡ <a href='$url' target='_blank'><b>$title</b></a> <br/>"
+          template: "$newline- <a href='$url' target='_blank'>$title</a>"
           retry_count: 5
           retry_wait_time: 20
