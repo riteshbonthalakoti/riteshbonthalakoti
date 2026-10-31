@@ -22,7 +22,7 @@ I design custom circuits, write microcontroller firmware in C/C++, and develop I
 
 <div align="center">
   <a href="https://github.com/dharanova-code/vaha" target="_blank">
-    <img src="./assets/vaha.webp" alt="VAHA" width="100%" />
+    <img src="./assets/vaha.png" alt="VAHA" width="100%" />
   </a>
   <h3><a href="https://github.com/dharanova-code/vaha" target="_blank">VAHA</a></h3>
 </div>
