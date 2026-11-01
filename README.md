@@ -168,7 +168,7 @@ Enterprise neural support orchestrator built during Infosys Springboard. Automat
 
 <div align="center">
 
-<a href="https://riteshbonthalakoti.vercel.app/" target="_blank">
+<a href="https://riteshbonthalakoti.tech" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
